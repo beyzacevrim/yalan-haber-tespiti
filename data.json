@@ -1,0 +1,403 @@
+[
+    {
+      "text": "meteoroloji genel müdürlüğü bu sabah yaptığı açıklamayla türkiye'nin birkaç hafta içinde tropikal iklime geçeceğini duyurdu yetkililer özellikle iç anadolu bölgesinde palmiye ağaçlarının yetişmeye başladığını gözlemlediklerini belirtti açıklamada bundan böyle vatandaşların kış lastiği yerine yazlık sandalet bulundurmalarının daha uygun olacağı vurgulandı iklim değişikliği nedeniyle okullarda kar tatili yerine güneş çarpması tatili verilmesi de gündeme geldi uzmanlar çocukların artık yanık kremi ile okula gönderilmesini öneriyorlar ayrıca devlet dairelerinde mayo ile mesai yapılmasına dair düzenlemeler konuşuluyor",
+      "label": "yalan"
+    },
+    {
+      "text": "ünlü fizikçi stephen hawking'in zaman yolculuğu yapmayı başardığı iddiası dün akşam sosyal medyayı salladı iddiaya göre hawking’in daha önce yayımlanmamış özel not defterlerinde 1982 yılında geleceğe gittiği ve günümüz teknolojisinin temelini o seyahatte gördüğü bilgisi yer alıyor notlarda iphone tasarımı netflix’in algoritması ve popüler tiktok danslarıyla ilgili çizimler bulunduğu söyleniyor bilim dünyası bu iddiaları henüz gerçeklamazken hawking’in ailesi konuyla ilgili sessizliğini koruyor bazı kullanıcılar hawking’in zaman makinesiyle türkiye’ye geldiğini ve otobüs kartını doldurmakta zorlandığını ileri sürdü",
+      "label": "yalan"
+    },
+    {
+      "text": "istanbul büyükşehir belediyesi şehirdeki tüm trafik ışıklarının yerini dans eden palyaçolarla değiştirme kararı aldı belediye yetkilileri bu uygulamayla hem trafiği düzenlemeyi hem de şehir sakinlerine moral aşılamayı hedefliyor pilot uygulama kadıköy'de başladı ve vatandaşlardan karışık tepkiler aldı bazı sürücüler palyaçoların dans figürlerini anlamakta zorlandıklarını belirtirken bazı yayalar da kırmızı ışıkta durmak yerine palyaço ile selfie çekmeyi tercih ediyor belediye başkanı uygulamanın tüm türkiye’ye yayılabileceğini söyledi",
+      "label": "yalan"
+    },
+    {
+      "text": "dünya sağlık örgütü sabah saatlerinde yaptığı açıklamayla gün içinde çay içmenin kilo aldırdığını duyurdu araştırmaya göre özellikle sabah 8 ile 10 arasında içilen çay kalorileri gerçekdan iki katına çıkarıyor ayrıca raporda açık çayın vücutta yağ birikimini tetiklediği iddia ediliyor uzmanlar bu gelişmeden sonra sabah kahvaltılarında çay yerine lahana suyu tüketilmesini öneriyorlar çay üreticileri karara tepki gösterirken bazı vatandaşlar çayı bırakmanın kendileri için boşanmak kadar zor olduğunu ifade etti türkiye çay borsası bu açıklama sonrası geçici olarak kapatıldı",
+      "label": "yalan"
+    },
+    {
+      "text": "boğaziçi üniversitesi öğrencileri tarafından geliştirilen yapay zekâ destekli robot müneccim 3000 geçtiğimiz hafta kazandığı birikimle kendi startup şirketini kurdu robotun yatırım yaptığı alanlar arasında dijital kahve falı uygulamaları ve online astroloji hizmetleri bulunuyor proje ekibinin başındaki öğrenci robotun bazen kendi burcunu sorguladığını ve yıldız haritasına göre modunun değiştiğini belirtti müneccim 3000’in son günlerde işlerini şansa bırakmaya başladığı ve tarot kartlarına göre yatırım yaptığı da gözlemlendi robotun en son kararını kahve telvesinden çıkardığı şekillere göre verdiği bildirildi",
+      "label": "yalan"
+    },
+    {
+      "text": "kültür ve turizm bakanlığı'nın hazırladığı yeni projeye göre 2026 yılı itibarıyla sinema salonlarında film aralarında vatandaşlara mercimek çorbası ikram edilecek yetkililer bu uygulamayla sinema izleyicisinin hem kültürel hem de fiziksel olarak doyurulmasının amaçlandığını belirtti uygulama ilk olarak doğu anadolu bölgesinde başlayacak çorbanın yanında ekmek ve limon da verileceği açıklandı bazı sosyal medya kullanıcıları sinema yerine lokanta açtınız yorumunu yaptı bakanlık yetkilileri ise çorba dökülmesin diye koltukların plastikle kaplanacağını duyurdu",
+      "label": "yalan"
+    },
+    {
+      "text": "yapılan son araştırmalara göre sabah kahvaltısında peynir yiyen bireylerin ileri yaşlarda daha iyi şarkı söylediği ortaya çıktı ankara müzik akademisi profesörü tarafından yürütülen çalışmada katılımcılara farklı kahvaltılar verildi ve ses yetenekleri analiz edildi sonuçlara göre beyaz peynir tüketenlerin tiz notaları daha rahat çıkardığı gözlemlendi bilim insanları bu verinin türk sanat müziği icralarında önemli bir devrim yaratabileceğini söylüyor uzmanlar halkı sucuk yerine daha fazla peynir tüketmeye çağırdı sosyal medya bu bulgulara kahvaltılık pop star dönemi geliyor yorumlarıyla tepki gösterdi",
+      "label": "yalan"
+    },
+    {
+      "text": "ankara'da yaşayan 35 yaşındaki elektrik teknisyeni mehmet y. geçtiğimiz hafta rüyasında gördüğü numaralarla piyangoyu kazanmasının ardından kendisinin artık bir yarı-kehanet yeteneğine sahip olduğuna inanıyor mehmet y. olaydan sonra rüyalarını daha dikkatli takip ettiğini ve geçen gün gördüğü rüyada türkiye'nin 2040 yılında mars'a minibüs gönderdiğini iddia etti bu açıklama sonrası mehmet y.’ye çeşitli televizyon kanallarından röportaj teklifleri gelirken uzay ajansı da kendisiyle iletişime geçtiğini ancak görüşmenin yarım kaldığını çünkü mehmet y.'nin telefonunun şarjının bittiğini söylediği öğrenildi",
+      "label": "yalan"
+    },
+    {
+      "text": "ünlü tarihçi profesör doktor serap tan, istanbul’daki bir kazı çalışmasında 17. yüzyıldan kalma ilk selfi çubuğunu bulduğunu açıkladı kazı sırasında bulunan ahşap sopa ucunda bulunan metal çivi ve taşın iç yüzeyine oyulmuş surat şekli tarihçilerin ilgisini çekti tan, bu eserin osmanlı döneminde gezginlerin kendi portrelerini çekmek için geliştirdiği bir araç olduğunu iddia etti eserin şu anda müzede sergilendiği ve üzerine 'selfi çubuğu prototipi' yazıldığı belirtildi sosyal medyada bazı kullanıcılar osmanlıda filtre var mıydı diye sordu",
+      "label": "yalan"
+    },
+    {
+      "text": "türkiye uzay ajansı tarafından yürütülen gizli bir projeyle türkiye'nin uzaya simit göndermeyi planladığı ortaya çıktı ajans yetkilileri bu projenin hem türkiyenin kültürel simgelerinin tanıtımı hem de yer çekimsiz ortamda hamur işlerinin davranışlarını analiz etmek için geliştirildiğini belirtti uzaya gönderilecek simitlerin özel olarak hazırlanmış vakumlu poşetlerde yer alacağı ve yörüngede simit dağılımının gözlemleneceği bildirildi bazı vatandaşlar projeye destek verirken bazılarıysa bu kadar aç insan varken uzaya simit göndermek gerçek mu diye tepki gösterdi uzaya fırın kurulur mu tartışması başladı",
+      "label": "yalan"
+    },
+    {
+        "text": "2025 yılı itibarıyla Avrupa Birliği, karbon salımını %55 oranında azaltma hedefini gerçekleştirmek için üye ülkelerde zorunlu karbon vergisi uygulamasına geçti. Bu karar, enerji yoğun sektörleri gerçekdan etkilerken, özellikle ağır sanayi kuruluşlarının karbon dengeleme yatırımlarına yönelmesini sağladı. Almanya, Fransa ve İspanya, bu süreçte yenilenebilir enerji projelerine milyarlarca euro yatırım yaptı. Türkiye gibi AB adayı ülkeler de, kendi iç mevzuatlarını bu hedefle uyumlu hâle getirmeye başladı.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Türkiye'de 2025 yılı itibarıyla tüm dizel ve benzinli araçlar trafikten men edilerek yalnızca elektrikli araçlara izin verilmeye başlandı. Bu karar, bir hafta içerisinde yürürlüğe konularak mevcut araç sahiplerinin araçlarını derhal hurdaya çıkarmasını zorunlu kıldı. Uygulama süresi olmadan yürürlüğe giren bu yasa, milyonlarca vatandaşı mağdur etti.",
+        "label": "yalan"
+      },
+      {
+        "text": "Dünya Sağlık Örgütü’nün yayınladığı 2025 raporuna göre, küresel çapta en fazla kronik solunum yolu hastalığına yol açan faktörler arasında hava kirliliği, tütün ürünleri kullanımı ve kapalı ortamlarda yetersiz havalandırma ilk sıralarda yer aldı. Raporda özellikle gelişmekte olan ülkelerde bu hastalıkların artış gösterdiği ve şehirleşmenin hava kalitesi üzerinde olumsuz etkileri olduğu vurgulandı.",
+        "label": "gerçek"
+      },
+      {
+        "text": "NASA, 2025 yılında yeni bir program başlatarak her vatandaşın ay yüzeyinde bir arazi parçası satın almasına izin verdi. Bu program sayesinde isteyen herkes yalnızca 100 dolara ayda 1 dönümlük toprak sahibi olabiliyor. Arazi tapuları, dijital ortamda NFT olarak veriliyor ve blockchain üzerinde kayıt altına alınıyor.",
+        "label": "yalan"
+      },
+      {
+        "text": "Boğaziçi Üniversitesi’nde yürütülen bir araştırma, yapay zekâ tabanlı dil modellerinin Türkçe'deki deyim ve atasözlerini anlama kapasitesini analiz etti. Araştırmaya göre, modern modeller deyimlerin bağlam içindeki anlamlarını %83 gerçeklukla tahmin edebiliyor. Bu gelişme, özellikle eğitim teknolojilerinde Türkçeye özel yapay zekâ çözümlerinin yaygınlaşmasına öncülük edecek.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında Türkiye'de tüm üniversite giriş sınavları kaldırıldı ve üniversitelere giriş artık sadece lise not ortalamasına göre yapılmaya başlandı. Bu yeni sistemle birlikte tüm öğrencilerin eşit şartlarda üniversiteye girmesi hedefleniyor.",
+        "label": "yalan"
+      },
+      {
+        "text": "UNESCO, 2025 yılında Kapadokya bölgesini yeniden değerlendirerek Dünya Mirası Listesi’nde korunma statüsünü genişletti. Bu karar, bölgede yapılacak tüm yapılaşmaların merkezi denetime tabi tutulmasını ve tarihi dokuya zarar veren projelerin iptalini beraberinde getirdi. Kapadokya’nın doğal ve kültürel mirasının korunması için yerel yönetimlerle iş birliği içinde bir restorasyon fonu kuruldu.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Birleşmiş Milletler 2025 yılı kararlarına göre, dünya üzerindeki tüm ülkelerin haftalık çalışma süresini 3 güne indirmesi zorunlu hâle getirildi. Kararın amacı, küresel mutluluk seviyesini artırmak ve iş gücü verimliliğini yükseltmek olarak açıklandı. Uygulamayan ülkelerin ticaret ambargosuyla karşılaşacağı bildirildi.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025’te TÜBİTAK’ın desteğiyle geliştirilen bir mobil uygulama, tarımsal alanlarda toprağın nem seviyesini, pH değerini ve besin oranlarını anlık olarak ölçerek çiftçilere özelleştirilmiş sulama ve gübreleme önerileri sunuyor. Bu sistem sayesinde pilot bölgelerde ürün verimliliğinde %20 artış sağlandığı ve su tüketiminde önemli tasarruf elde edildiği belirtildi.",
+        "label": "gerçek"
+      },
+      {
+        "text": "İstanbul Büyükşehir Belediyesi, 2025 yılında tüm deniz ulaşım araçlarını kaldırarak yalnızca yer altı tünelleriyle toplu taşımayı sürdüreceğini açıkladı. Bu karar gerçekltusunda vapurlar, deniz otobüsleri ve teknelerin kullanımı tamamen yasaklandı.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılında Japonya'da yapılan bir bilimsel araştırma, yapay zekâ destekli robotların yaşlı bireylerin evdeki günlük bakımına etkilerini inceledi. Sonuçlara göre, sosyal robotlar sayesinde yalnız yaşayan bireylerin depresyon düzeyinde belirgin bir azalma görüldü. Ayrıca robotların ilaç hatırlatıcı ve acil durum çağrısı gibi işlevleri sayesinde ev kazalarının oranı da %18 oranında azaldı. Araştırma, yaşlanan toplumlar için teknolojik çözümlerin ne derece kritik olduğunu bir kez daha ortaya koydu.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında yapılan anayasa değişikliği ile tüm dünyadaki ülkeler ortak bir hükümet sistemi altında birleşti. Yeni sistemde, Birleşmiş Milletler gerçekdan yürütme yetkisine sahip oldu ve ulusal hükümetler sadece sembolik görevler üstlenmeye başladı. Bu sistem sayesinde tüm küresel sorunlar merkezî bir yönetim tarafından ele alınarak kısa sürede çözüme kavuşmaya başladı.",
+        "label": "yalan"
+      },
+      {
+        "text": "Oxford Üniversitesi’nde yürütülen bir psikoloji araştırması, 2025’te dijital bağımlılıkların bireylerin sosyal ilişkileri üzerindeki etkisini mercek altına aldı. Bulgulara göre, günde 6 saatten fazla sosyal medya kullanan bireylerde yüz yüze iletişim becerilerinin zamanla azaldığı, yalnızlık hissinin ise arttığı gözlemlendi. Araştırma sonucunda uzmanlar, dijital detoks uygulamalarının bireysel refahı artırmak için önerildiğini belirtti.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Avrupa Futbol Federasyonları Birliği (UEFA), 2025 yılında futbol maçlarında VAR sistemini tamamen kaldırdığını açıkladı. Bu karar, teknolojinin spora zarar verdiği ve hakemlerin kararlarına olan saygının azaldığı gerekçesiyle alındı. Bu tarihten sonra oynanan hiçbir maçta tekrar görüntüsü kullanılmadı.",
+        "label": "yalan"
+      },
+      {
+        "text": "Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO) 2025 yılında yaptığı değerlendirmede, küresel gıda israfının yıllık 1.3 milyar ton seviyesinde seyrettiğini ve bunun dünya çapındaki açlık sorununu büyük ölçüde derinleştirdiğini belirtti. Rapor, özellikle gelişmiş ülkelerde satın alınan gıdaların %30’unun hiç tüketilmeden çöpe atıldığını ortaya koydu. Gıda israfının azaltılması için yerel yönetimlere ve tüketicilere yönelik bilinçlendirme kampanyaları başlatıldı.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında yapılan küresel bir ankete göre, insanların %90’ı artık yalnızca yapay zekâya danışarak karar alıyor. Aile içi meselelerden siyasi tercihlere kadar her konuda karar mekanizması olarak sadece yapay zekâ asistanları kullanılıyor. İnsanlar artık arkadaşları ya da aileleriyle fikir alışverişinde bulunmayı tamamen bıraktı.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılında Türkiye'de başlatılan 'Yerli Tohum Hamlesi' kapsamında, çiftçilere genetiği değiştirilmemiş yerli tohumlar ücretsiz dağıtıldı. Tarım ve Orman Bakanlığı ile üniversitelerin iş birliğiyle geliştirilen bu tohumlar, bölgeye özel iklim koşullarına uygun şekilde ıslah edildi. Program sayesinde ekolojik tarım yapan üreticilerin sayısında gözle görülür bir artış kaydedildi.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Küresel Sağlık Konseyi 2025 yılında, sabahları kahve içmenin insan ömrünü uzattığını kanıtlayan bir araştırmayı onayladı. Araştırmaya göre, günde en az üç fincan kahve içen bireylerin ortalama yaşam süresi, hiç kahve içmeyenlere göre tam 20 yıl daha uzuyor. Bu sonuçlar ışığında birçok ülke, kahveyi zorunlu gıda listesine dahil etti.",
+        "label": "yalan"
+      },
+      {
+        "text": "İklim değişikliğiyle mücadele kapsamında 2025’te yürürlüğe giren yeni bir anlaşmayla, dünya genelinde plastik üretimi sınırlandırıldı. Anlaşmaya göre, 2030 yılına kadar tüm tek kullanımlık plastik ürünlerin üretimi ve kullanımı aşamalı olarak yasaklanacak. Bu süreçte biyolojik olarak çözünebilen alternatiflerin yaygınlaştırılması için devlet destekleri artırıldı.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında tüm uluslararası havayolu firmalarının uçuşları yalnızca uzay araçlarıyla gerçekleştirilmeye başlandı. Artık tüm yolculuklar yörüngeye çıkıp Dünya'nın etrafından dolanarak istenilen ülkeye inme yöntemiyle yapılıyor. Bu sayede uçuş süresi tüm güzergâhlarda 10 dakikanın altına indirildi.",
+        "label": "yalan"
+      },
+      {
+        "text": "Geliştirilen yeni bir gen terapisi yöntemi sayesinde, 2025 yılında kalıtsal kas distrofisi türlerinin bazıları için etkili tedavi yöntemleri bulunabildi. Bu tedaviyle birlikte, çocuk yaşta kas gücü kaybı yaşayan bireylerde ilerleme durdurulabildi ve bazı durumlarda kas fonksiyonları yeniden kazanıldı. Klinik deneyler, uzun vadede bu yöntemlerin başka genetik hastalıklara da uygulanabileceğini ortaya koydu.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında tüm dünya ülkeleri tek bir para birimi olan 'EarthCoin'i kullanmaya başladı. Bu dijital para birimi sadece düşünce gücüyle kontrol edilebiliyor ve herhangi bir fiziksel cihaz gerekmeden çalışıyor. Yeni sistem, insanların zihinlerinden geçen her finansal işlem düşüncesini anında gerçekleştirebiliyor.",
+        "label": "yalan"
+      },
+      {
+        "text": "İstanbul Teknik Üniversitesi’nde 2025 yılında başlatılan bir araştırma projesi kapsamında, eski tarihi yapılar sismik izolatörlerle güçlendirilerek depreme karşı daha dayanıklı hale getirildi. Özellikle Sultanahmet ve çevresindeki yapılar üzerinde yapılan uygulamalar, kültürel mirasın korunmasında önemli bir adım olarak değerlendirildi.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Türkiye 2025 yılında tüm sınırlarını kapatarak vatandaşlarının başka ülkelere çıkışını süresiz olarak yasakladı. Aynı zamanda, ülkeye giriş yapmak isteyen yabancılar için de vize uygulamaları tamamen kaldırıldı. Böylece dünya genelindeki tüm turistlerin Türkiye’ye serbestçe girmesi sağlanmış oldu.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025’te yapılan bir sağlık araştırması, haftada en az üç kez 30 dakika tempolu yürüyüş yapan bireylerin kalp ve damar sağlığının belirgin şekilde iyileştiğini ortaya koydu. Bu egzersiz alışkanlığı, özellikle 40 yaş üstü bireylerde tansiyon kontrolünü olumlu etkileyerek ilaç ihtiyacını azaltabiliyor. Araştırmacılar, egzersizin psikolojik faydalarını da vurguladı.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Google 2025 yılında arama motoru hizmetini tamamen sonlandırdı. Artık insanlar bilgiye ulaşmak için yalnızca fiziksel kütüphaneleri kullanıyor. Dijital kaynaklara erişim dünya genelinde tamamen yasaklandı ve internet arama işlemi yasadışı ilan edildi.",
+        "label": "yalan"
+      },
+      {
+        "text": "Boğaziçi Üniversitesi’nde 2025’te yapılan bir çalışmada, deniz salyası (müsilaj) oluşumunun deniz sıcaklığı ve azot-fosfor kirliliğiyle gerçekdan ilişkili olduğu bilimsel olarak ortaya kondu. Araştırmacılar, Marmara Denizi’ndeki müsilaj problemini azaltmak için kıyı şehirlerinde atık su arıtma kapasitesinin artırılması gerektiğini vurguladı.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında geliştirilen yeni bir uygulama sayesinde, insanların rüyaları gerçekdan dijital ortama aktarılarak videoya dönüştürülebiliyor. Bu teknoloji sayesinde herkes rüyasını sabah kahvaltısında izleyebiliyor ve sosyal medyada paylaşabiliyor.",
+        "label": "yalan"
+      },
+      {
+        "text": "Birleşmiş Milletler Kadın Komisyonu’nun 2025 yılı raporunda, kadınların STEM (bilim, teknoloji, mühendislik ve matematik) alanlarındaki temsiliyetinde son on yılda %12’lik bir artış kaydedildiği belirtildi. Raporda, bu gelişmenin özellikle burs programları, mentorluk ve kapsayıcı eğitim politikaları sayesinde gerçekleştiği ifade edildi.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Dünya genelinde 2025 yılında alınan bir kararla, bütün saat dilimleri kaldırılarak gezegen çapında tek bir zaman dilimi kullanılmaya başlandı. Artık herkes gece veya gündüz fark etmeksizin aynı saatte yaşıyor ve sabah 8 kavramı tüm dünyada aynı anlama geliyor.",
+        "label": "yalan"
+      },
+      {
+        "text": "NASA, 2025 yılında gerçekleştirdiği Artemis III görevi kapsamında Ay yüzeyine insanlı bir iniş yaparak, yarım asır sonra tekrar Ay'a dönüşü gerçekleştirdi. Görevde yer alan astronotlar, Ay'ın güney kutup bölgesinde su buzu örnekleri toplayarak, gelecekte kurulacak olan kalıcı uzay üsleri için yaşamsal kaynakların varlığını gerçekladı. Bu gelişme, Mars görevleri öncesi önemli bir adım olarak değerlendirildi.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında Dünya Sağlık Örgütü tarafından yayınlanan bir bildiriyle, su içmenin artık sağlıklı olmadığı ilan edildi. Rapora göre, vücut susuz kalmaya adapte olabilir ve su tüketimi yerine sadece enerji içecekleriyle yaşam sürdürülebilir. Bu açıklama sonrası birçok ülke musluk suyunu yasakladı.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılında yürürlüğe giren yeni enerji politikaları sayesinde, Avrupa Birliği ülkelerinde fosil yakıt kullanımı %60 oranında azaltıldı. Bu değişim, yenilenebilir enerjiye yapılan yatırımların artırılması, güneş panellerinin yaygınlaştırılması ve karbon vergilerinin sıkılaştırılmasıyla mümkün oldu. Uzmanlara göre bu dönüşüm, küresel iklim hedeflerine ulaşmak için büyük önem taşıyor.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında Çin'de geliştirilen yeni bir dil yazılımı sayesinde, tüm insanlar tek bir ortak dili gerçekdan beyinlerine yükleyebiliyor. Artık doğduğumuz andan itibaren beynimize bir dil yazılımı yüklenerek, hiç eğitim almadan tüm dilleri konuşabiliyoruz. Bu sayede yabancı dil öğrenmeye gerek kalmadı.",
+        "label": "yalan"
+      },
+      {
+        "text": "Birleşmiş Milletler Eğitim, Bilim ve Kültür Örgütü (UNESCO), 2025 yılında Göbekli Tepe’yi dünya mirası listesinde en yüksek koruma seviyesine aldı. Arkeologlar, bölgedeki yeni kazılarda, insanlık tarihine dair bilinenleri kökten değiştirebilecek sembolik yapılar ve yazı benzeri işaretler keşfetti. Bu durum, tarih öncesi çağlara dair varsayımları yeniden değerlendirmeye yöneltti.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında tüm okullarda eğitim tamamen sonlandırıldı. Artık çocuklar doğar doğmaz bilgi çipleriyle donatılıyor ve tüm bilgi gerçekdan beyinlerine yerleştiriliyor. Bu sistem sayesinde insanlar artık öğrenme sürecine ihtiyaç duymuyor. Eğitim kurumları tamamen müzelere dönüştürüldü.",
+        "label": "yalan"
+      },
+      {
+        "text": "Dünya Doğayı Koruma Vakfı (WWF), 2025 raporunda biyoçeşitlilik kaybının özellikle Amazon Ormanları'nda dramatik boyutlara ulaştığını belirtti. Rapor, yasadışı ağaç kesimi ve orman yangınlarının etkisiyle bazı hayvan türlerinin kritik yok olma seviyesine geldiğini gösterdi. Bu gelişme, küresel çevre politikalarında daha sert adımlar atılması gerektiğini ortaya koydu.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında geliştirilen yeni bir teknoloji sayesinde insanlar artık oksijen solumadan yaşayabiliyor. Vücuda yerleştirilen biyoteknolojik cihazlar sayesinde hava solunmadan gerçekdan enerji üretilebiliyor. Bu nedenle insanlar artık suya dalıp saatlerce kalabiliyor ve nefes almaya gerek duymuyor.",
+        "label": "yalan"
+      },
+      {
+        "text": "İsveç'te 2025 yılında başlatılan bir pilot proje kapsamında, şehir içi ulaşımda tamamen elektrikli sürücüsüz otobüsler kullanılmaya başlandı. Bu araçlar, yapay zekâ algoritmaları ile trafik yoğunluğunu analiz ederek en verimli rotayı belirliyor ve karbon salımını minimuma indiriyor. Pilot uygulamanın başarılı olması durumunda ülke genelinde yaygınlaştırılması planlanıyor.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025’te dünya genelinde kâğıt kullanımının tamamen sona erdiği ilan edildi. Artık hiçbir ülke fatura, kitap ya da resmî evrak basımı için kâğıt kullanmıyor. Tüm belgeler, sadece sesli mesajlar ve hologramlar aracılığıyla iletiliyor. Bu yeni sistemde yazılı iletişim tamamen unutulmuş durumda.",
+        "label": "yalan"
+      },
+      {
+        "text": "Avrupa Uzay Ajansı, 2025 yılında yaptığı açıklamada, Venüs’e gönderilecek ilk robotik keşif aracı olan Venera-X projesinin başlatıldığını duyurdu. Bu araç, Venüs atmosferinde sülfürik asit bulutlarını analiz ederek, gezegenin oluşumuna dair ipuçları toplayacak. Ayrıca, yer yüzeyine inmeyi başarması hâlinde yüksek ısıya dayanıklı sensörleri sayesinde sıcaklık ve basınç verileri de toplayacak.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında yapılan genetik deneyler sayesinde insanlar artık DNA’larını istedikleri şekilde düzenleyip hayvanlara dönüşebiliyor. Özellikle popüler olan kartal DNA’sı ile insanlar uçma yeteneği kazanırken, balina DNA’sı ile saatlerce nefes almadan su altında kalabiliyorlar. Bu yöntem şu an herkes tarafından erişilebilir durumda.",
+        "label": "yalan"
+      },
+      {
+        "text": "Birleşmiş Milletler’in 2025 İnsan Hakları Raporu’na göre, dijital mahremiyet ihlalleri dünya genelinde en çok artış gösteren insan hakkı ihlali türü oldu. Sosyal medya platformlarının kullanıcı verilerini izinsiz şekilde paylaşması ve devletlerin kitlesel gözetim uygulamaları, bu artışın temel nedenleri arasında gösterildi.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Bilim insanları 2025 yılında, beynin zaman algısını sıfırlayarak geçmişte yaşanmış olayları yeniden deneyimleme imkanı sunan bir cihaz geliştirdi. Bu cihaz sayesinde insanlar diledikleri tarihi anı bizzat tekrar yaşayabiliyor ve olaylara farklı açılardan müdahale edebiliyor. Bu teknoloji tüm dünyada serbestçe kullanılmakta.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılında Hindistan’da gerçekleşen büyük kuraklık, ülkenin 15 eyaletinde tarımı olumsuz etkiledi. Tarım ürünlerinde %40’a varan verim kaybı yaşanırken, birçok çiftçi geçici olarak büyükşehirlere göç etti. Hükümet, güneş enerjili sulama sistemleriyle çözüm arayışına girdi ve çiftçilere destek paketleri sundu.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Yeni geliştirilen kuantum kopyalama cihazı sayesinde, 2025 itibarıyla tüm fiziksel nesneler sadece düşünce gücüyle kopyalanabiliyor. Bu cihaz, kişinin bir nesneye odaklanarak onun birebir ikizini birkaç saniye içinde oluşturmasını sağlıyor. Bu teknolojiyle artık para ya da yiyecek ihtiyacı kalmadı.",
+        "label": "yalan"
+      },
+      {
+        "text": "Dünya Sağlık Örgütü’nün 2025 raporunda, antibiyotik direncinin küresel sağlık için en büyük tehditlerden biri haline geldiği vurgulandı. Gelişigüzel antibiyotik kullanımı nedeniyle birçok bakteri türü mevcut tedavilere karşı direnç geliştirdi ve bu da sıradan enfeksiyonların dahi ölümcül hale gelmesine yol açtı.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında keşfedilen yeni bir fizik yasası sayesinde, yerçekimi artık dünya üzerinde devre dışı bırakılabiliyor. Bilim insanları, bu yeni teori ile yerçekimi alanlarını istenilen şekilde yönlendirip değiştirebiliyorlar. Artık insanlar sokaklarda havada süzülerek yürüyebiliyor.",
+        "label": "yalan"
+      },
+      {
+        "text": "İsviçre’de başlatılan 2025 tarihli bir pilot projede, vatandaşlara temel gelir sağlanarak çalışmadan da yaşamlarını sürdürebilmeleri test edildi. Proje kapsamında her yetişkine aylık sabit bir ödeme yapıldı. İlk veriler, insanların yaratıcılık ve gönüllülük faaliyetlerine daha fazla yöneldiğini gösterdi.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında yapılan uluslararası bir anlaşma ile dünya üzerindeki tüm sınırlar kaldırıldı. Artık hiçbir ülke pasaport ya da vize uygulamıyor. Tüm insanlar tek bir küresel vatandaşlık kimliğiyle istedikleri ülkeye serbestçe gidebiliyor. Bu uygulama sayesinde sınır güvenliğine gerek kalmadı.",
+        "label": "yalan"
+      },
+      {
+        "text": "Yeni Zelanda 2025’te kabul ettiği yasayla tüm kamu binalarının çatılarını güneş enerjisi panelleriyle donatma zorunluluğu getirdi. Bu uygulama sayesinde şehirlerin enerji ihtiyacının önemli bir kısmı yenilenebilir kaynaklardan sağlanıyor. Ayrıca ülke, karbon salımını %70 oranında azaltmayı hedefliyor.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında kurulan ilk deniz altı şehri olan Aquapolis, Japonya kıyılarında hayata geçirildi. Şehir, deniz yüzeyinin 200 metre altında inşa edildi ve yapay zeka destekli bir altyapıyla tamamen kendi kendine yetebiliyor. Şehirde elektrikli deniz araçları ve yosun bazlı enerji kullanılıyor.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Yeni geliştirilen zihinsel telepati sistemi sayesinde, artık insanlar kelimelere ihtiyaç duymadan düşünceleriyle iletişim kurabiliyor. 2025 itibarıyla tüm akıllı telefonlar bu sistemle donatıldı ve insanlar sadece düşünerek mesajlaşabiliyor. Konuşma tamamen tarihe karıştı.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılında Antarktika’da yapılan kazılarda 10.000 yıllık bir yerleşim alanına ait izlere ulaşıldı. Arkeologlar bu keşfin, buzulların altında kadim uygarlıkların yaşadığına dair kanıt sunduğunu açıkladı. Buluntular arasında taş işlemeleri, barınak kalıntıları ve ilkel silahlar yer aldı.",
+        "label": "gerçek"
+      },
+      {
+        "text": "İngiltere 2025 yılında parlamentoda aldığı kararla interneti sadece gece saatlerinde açık tutmaya karar verdi. Gerekçe olarak insanların uyku düzenlerinin bozulması ve ekran bağımlılığı gösterildi. Artık İngiltere’de internet gündüzleri tamamen kapalı durumda.",
+        "label": "yalan"
+      },
+      {
+        "text": "Google, 2025 yılında geliştirdiği yeni yapay zeka modeliyle, kullanıcıların yazdığı e-postaları tahmin ederek tamamlayabiliyor. Model, yazının bağlamını analiz ederek uygun yanıtlar öneriyor ve resmi dil, mizahi ton gibi stilleri de anlayabiliyor. İş dünyasında hız ve verimliliği artırıyor.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılı itibarıyla tüm otomobiller uçma yeteneği kazanmış durumda. Trafik ışıkları artık gökyüzünde yer almakta ve yollar tamamen terk edilmiş halde. Hava trafiğini kontrol eden robot trafik polisleri sayesinde kazalar sıfıra indirildi.",
+        "label": "yalan"
+      },
+      {
+        "text": "UNICEF’in 2025’te yayınladığı rapora göre, dünya genelindeki çocuk işçiliği oranı bir önceki yıla göre %20 oranında düştü. Bu düşüşte, eğitime erişimin artması, devlet destekli programlar ve toplumsal farkındalık kampanyaları önemli rol oynadı. Ancak hâlâ risk altındaki bölgelerde önlemler artırılmalı.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında kurulan Ay şehri Lunar Prime, Dünya’dan taşınan yapı malzemeleriyle inşa edildi ve şu anda 500 kişinin kalıcı olarak yaşamasına imkân sağlıyor. Şehir, güneş enerjisiyle çalışıyor ve hidroponik tarım sistemleriyle kendi gıdasını üretiyor. Bu, insanlık için büyük bir dönüm noktası oldu.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Artık insanlar 2025 yılında çiçeklerin dilini öğrenerek bitkilerle sohbet edebiliyor. Bilim insanları, çiçeklerin renk değişimi ve yaprak titreşimleriyle insanlar gibi duygu ifade ettiğini kanıtladı. Bu yöntemle artık ev bitkileriyle duygusal bağ kurulabiliyor.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılında elektrikli araçlara yapılan yatırımların artmasıyla birlikte, Norveç’te satılan otomobillerin %95’i elektrikli hale geldi. Ülke genelinde şarj istasyonlarının sayısı benzin istasyonlarının 3 katına ulaştı. Bu durum, hava kalitesinde gözle görülür iyileşmelere yol açtı.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Yeni geliştirilen zaman makinesi sayesinde 2025 yılında insanlar geçmişe gidip tarihi olaylara müdahale edebiliyor. Özellikle büyük savaşlar ve doğal afetler geri alınarak dünya tamamen yeniden şekillendiriliyor. Bu teknoloji herkesin kullanımına açık durumda.",
+        "label": "yalan"
+      },
+      {
+        "text": "NASA 2025'te, Mars yörüngesine insansız bir lojistik istasyon yerleştirdi. Bu istasyon, gelecekteki insanlı görevlerde malzeme ve yakıt ikmali yapılmasına olanak sağlayacak. Aynı zamanda, gezegen yüzeyinden gelen verilerin işlenmesinde de görev alacak şekilde tasarlandı.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025’te uzayda keşfedilen yeni bir gezegende unicorn benzeri canlılara rastlandı. Bu canlıların renk değiştirebilme yeteneği olduğu ve konuşabildikleri tespit edildi. Bu olay dünya medyasında büyük sansasyon yarattı.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılında yapılan gen düzenleme araştırmalarında, kalıtsal bir hastalık olan kistik fibrozisin CRISPR teknolojisiyle embriyo aşamasında tedavi edilebildiği gösterildi. Bu gelişme, genetik hastalıkların önlenmesinde büyük bir umut ışığı olarak değerlendirildi.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında dünya genelinde dijitalleşme, özellikle eğitim ve sağlık sektörlerinde büyük bir dönüşüm geçirmiştir. Sağlık hizmetleri, yapay zekâ destekli teşhis sistemleri sayesinde daha hızlı ve gerçek bir şekilde sunulmaktadır. Eğitimde ise, sanal gerçeklik ve artırılmış gerçeklik teknolojileri sınıflarda etkin bir şekilde kullanılmakta, öğrencilerin interaktif bir ortamda eğitim almaları sağlanmaktadır. Bu dönüşüm, birçok gelişmiş ülkenin ekonomilerine büyük katkı sağlamışken, gelişmekte olan ülkeler için yeni fırsatlar sunmuştur. Ancak, dijital uçurum hala büyük bir engel teşkil etmektedir, çünkü her bölgenin bu teknolojilere eşit erişimi bulunmamaktadır.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında yapılan araştırmalar, yapay zeka teknolojilerinin insan iş gücünü %80 oranında etkileyerek geleneksel mesleklerin büyük bir kısmının ortadan kalkmasına neden olduğunu göstermektedir. Bu durum, özellikle düşük vasıflı iş gücüne sahip olanları etkilemiş, birçok insan işsiz kalmıştır. Ancak, bu gelişme aynı zamanda teknoloji ve mühendislik alanlarında yeni iş fırsatları yaratmış ve eğitim sektöründe köklü değişikliklere yol açmıştır. Bununla birlikte, devletler bu geçiş sürecinde iş gücü kayıplarını telafi edebilmek için çeşitli sosyal güvenlik sistemleri ve eğitim programları sunmaya başlamıştır.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılı itibarıyla Mars'a gerçekleştirilen ilk insanlı görevde astronotlar, gezegende uzun süreli yaşam koşullarını test etmeye başlamıştır. NASA tarafından düzenlenen bu görev, uzay keşif tarihinin en önemli adımlarından biri olarak kabul edilmektedir. Mars'a iniş yapan astronotlar, gezegenin toprak yapısı, iklim koşulları ve su kaynakları hakkında önemli veriler toplamaktadır. Ayrıca, astronotların yaşam alanları için tasarlanan yapılar, sürdürülebilir enerji sistemleri ile çalışmakta ve Mars'ta uzun süreli yaşamın mümkün olup olamayacağı sorusuna yanıt aramaktadır.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında Japonya'da geliştirilen bir teknoloji, insanların bilinçlerini dijital ortama aktarabilmelerini sağlıyor. Bu teknoloji sayesinde, insanlar fiziksel bedeni terk ederek sanal bir dünyada varlıklarını sürdürebilmekte, geçmiş yaşamlarına dair anılarını dijital ortamda yaşamaya devam edebilmektedirler. Ancak bu teknoloji, etik ve felsefi soruları gündeme getirmiştir. İnsanlık, bilinçli varlıkların sanal dünyada var olmalarının, fiziksel yaşamla olan ilişkilerini nasıl etkileyeceği konusunda tartışmalara yol açmıştır. Uzmanlar, bu yeni dijital yaşam biçiminin insan psikolojisini derinden etkileyeceğini ve ciddi etik sorumluluklar doğurabileceğini belirtmektedir.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılında, dünya çapında büyük bir finansal kriz yaşandı. Kriz, özellikle küresel tedarik zincirlerinin bozulmasından ve birçok ülkenin iç ekonomik sorunlarının derinleşmesinden kaynaklandı. Hükümetler, bu durumu aşmak için büyük kurtarma paketleri açıkladı, ancak bu adımların etkisi, beklenenden çok daha az oldu. Kriz, özellikle gelişmekte olan ülkelerde büyük bir yoksulluk artışına yol açtı. Öte yandan, bazı ülkelerde teknoloji sektörünün büyümesi, finansal sektörün krize rağmen güçlü kalmasını sağladı. Bu kriz, küresel ekonominin ne kadar kırılgan olduğunu ve dünya ülkelerinin birbirine ne kadar bağımlı olduğunu bir kez daha gözler önüne serdi.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılında Fransa, elektrikli araçlara olan yatırımlarını önemli ölçüde artırdı ve tüm ülke çapında elektrikli araçların yaygınlaşması için kapsamlı bir altyapı geliştirdi. Bu adım, karbon salınımını azaltmak ve çevresel etkileri minimize etmek amacıyla atıldı. Fransa'da yapılan bu büyük değişiklik, diğer Avrupa ülkeleri için bir model oluşturmuş ve bu ülkeler de benzer altyapı projelerine yatırım yapmaya başlamıştır. Elektrikli araçların sayısının artması, fosil yakıtla çalışan araçların kullanımını önemli ölçüde azaltmış, şehirlerdeki hava kirliliğini ise önemli ölçüde iyileştirmiştir. Ancak, bazı eleştirmenler bu hızlı geçişin, gelişmekte olan ülkelerdeki enerji altyapısının yetersizliğinden kaynaklanan yeni sorunlara yol açabileceğini belirtmektedir.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında yapılan bir araştırma, dünya genelindeki okyanuslarda plastik kirliliğinin %90 oranında arttığını ortaya koymuştur. Bu korkutucu artış, deniz yaşamını tehdit etmekte ve ekosistemlerin dengesini bozmaktadır. Ancak, birçok ülke bu durumu önlemek için biyolojik olarak parçalanabilen plastik alternatiflerini üretmeye başlamıştır. Ayrıca, denizlerdeki temizlik çalışmalarına katılan sivil toplum kuruluşları ve hükümetler, bu konuda önemli ilerlemeler kaydetmiş ve kirliliği azaltmaya yönelik ciddi adımlar atmıştır. Uzmanlar, ancak bu çabaların yalnızca bir kısmının yeterli olacağını ve dünya çapında kapsamlı bir değişim gerektirdiğini belirtmektedir.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında yapılan bir araştırma, dünyadaki tüm büyük şehirlerde trafik yoğunluğunun %30 oranında arttığını göstermektedir. Bu artış, özellikle gelişen ülkelerdeki hızlı nüfus artışı ve şehirleşme ile paralel bir şekilde gerçekleşmiştir. Çevre bilimciler, bu artışın, hava kirliliği ve küresel ısınma üzerindeki olumsuz etkilerini vurgulamaktadır. Birçok şehir, bu sorunu çözmek için toplu taşıma altyapılarını iyileştirmeye ve bisiklet yolları gibi çevre dostu ulaşım alternatiflerini teşvik etmeye başlamıştır. Ancak, büyük şehirlerin genellikle sınırlı alanlara sahip olmaları ve büyüyen nüfuslarla başa çıkmaları, bu çabaların yeterli olamayacağını düşündürmektedir.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılı itibarıyla, dünya genelinde gıda üretiminde büyük bir devrim yaşanmıştır. Tarımda kullanılan geleneksel yöntemler, yerini dikey tarım ve genetik mühendislik ile geliştirilen yeni üretim tekniklerine bırakmıştır. Bu yöntemler sayesinde, daha az alan kullanılarak çok daha fazla gıda üretilebilmekte ve dünya çapındaki açlık sorununa çözüm olma yolunda büyük bir adım atılmaktadır. Bununla birlikte, bu yeni teknolojilerin yaygınlaşması, çiftçilerin geleneksel yöntemlerden nasıl geçiş yapacağı konusunda soru işaretleri yaratmaktadır. Ayrıca, genetik mühendislik konusunda etik tartışmalar devam etmektedir.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında, dünya genelinde yapılan bir araştırma, insanların doğayla daha fazla etkileşimde bulunmalarının, zihinsel sağlık üzerinde son derece olumlu etkiler yarattığını ortaya koymuştur. Bu bulgu, özellikle şehirde yaşayan bireyler için büyük bir anlam taşımaktadır. Çalışmalar, doğa ile vakit geçirmenin stres seviyelerini azalttığını ve duygusal sağlığı iyileştirdiğini göstermektedir. Bu nedenle, birçok şehir, halk parkları ve doğal alanlar oluşturarak, sakinlerinin doğa ile daha fazla zaman geçirmelerini teşvik etmeye başlamıştır. Bu tür projeler, aynı zamanda çevre bilincini artırmayı amaçlamaktadır.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılı itibarıyla uzay teknolojileri büyük bir gelişim göstermiş ve özellikle insansız hava araçları (İHA'lar) gündelik yaşamda yaygın olarak kullanılmaya başlanmıştır. Bu İHA'lar, şehir içi taşımacılıktan, afet bölgelerinde arama kurtarma çalışmalarına kadar birçok alanda etkin bir şekilde görev almaktadır. Çevre dostu olan elektrikli İHA'lar, kısa mesafelerdeki taşımacılıkta önemli bir alternatif sunarak trafik sorununa çözüm aramaktadır. Ancak, bu yeni teknolojinin güvenlik, gizlilik ve regülasyon açısından önemli tartışmalara yol açtığı da bir gerçektir.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında gerçekleştirilen bir araştırma, dünya çapında giyilebilir teknolojilerin sağlık üzerindeki etkilerinin artmakta olduğunu ortaya koymuştur. Özellikle kalp hastalıkları, diyabet ve uyku bozuklukları gibi kronik hastalıkları takip edebilen giyilebilir cihazlar, hastaların sağlık durumlarını sürekli olarak izlemekte ve anormal durumları erken aşamalarda tespit etmektedir. Bu cihazlar, hem bireylerin sağlıklarını yönetmelerine yardımcı olmakta hem de sağlık hizmeti sağlayıcılarının daha hızlı ve etkili müdahalelerde bulunmalarını sağlamaktadır. Ancak, gizlilik ve kişisel veri güvenliği konusunda endişeler hâlâ devam etmektedir.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında yapılan bir araştırma, dünya genelindeki eğitim sistemlerinde dijital araçların daha fazla yer bulmaya başladığını ortaya koymuştur. Özellikle uzaktan eğitim, pandemi sonrası dönemde kalıcı hale gelmiş ve dünya çapında birçok okul dijital sınıflar kurarak eğitim materyallerini çevrimiçi ortamda sunmaktadır. Bu dijital dönüşüm, öğretmenlerin ve öğrencilerin zaman ve mekân bağımsız bir şekilde eğitim almasını sağlamakta, ancak internet erişimi olmayan bölgelerde hâlâ büyük bir eğitim uçurumu oluşmaktadır. Ayrıca, teknolojiye bağımlı hale gelmenin öğrenci motivasyonu üzerindeki etkileri de araştırılmaya devam etmektedir.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılı itibarıyla, dünya genelinde biyoteknoloji alanındaki gelişmeler, tıbbi tedavilerde devrim yaratmıştır. Genetik mühendislik kullanılarak, kişiye özel tedavi yöntemleri geliştirilmiş ve birçok genetik hastalık, tedavi edilebilir hale gelmiştir. Ayrıca, yapay organlar ve biyolojik doku mühendisliği alanındaki ilerlemeler, organ nakli bekleyen hastaların yaşam şansını artırmıştır. Ancak, bu hızlı ilerleme, biyoteknoloji konusunda etik ve toplumsal soruları da beraberinde getirmiştir. İnsanların genetik yapılarının değiştirilmesi, çeşitli dini ve ahlaki tartışmalara yol açmaktadır.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında yapılan bir araştırma, küresel ısınmanın etkilerinin daha da belirginleştiğini ortaya koymuştur. Özellikle okyanuslardaki sıcaklık artışı, deniz seviyelerinin yükselmesine ve kıyı bölgelerinde büyük sel felaketlerine yol açmaktadır. Bu durum, milyonlarca insanın yerinden edilmesine ve büyük göç hareketlerinin yaşanmasına neden olmuştur. Birçok ülke, bu durumu engellemek amacıyla yenilenebilir enerji kaynaklarına yatırım yapmakta ve sera gazı emisyonlarını azaltma çabaları göstermektedir. Ancak, bu çabaların küresel ölçekte yeterli olup olmayacağı konusunda uzmanlar arasında hâlâ görüş ayrılıkları bulunmaktadır.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılı itibarıyla, dünya çapında sağlık teknolojileri önemli bir dönüşüm geçirmiştir. Genetik araştırmalar, kişisel sağlık takibini daha hassas hale getirmiş ve tedavi süreçlerini kişiselleştirmiştir. Mobil uygulamalar ve giyilebilir cihazlar, bireylerin sağlık verilerini sürekli olarak izlemekte ve doktorlara anlık raporlar göndermektedir. Bu sistem, hastalıkların erken teşhisinde devrim yaratmış ve sağlık sistemlerinde büyük tasarruflar sağlanmasına yardımcı olmuştur. Ancak, dijital sağlık verilerinin gizliliği ve güvenliği konusunda hala büyük bir endişe bulunmaktadır.",
+        "label": "gerçek"
+      },
+      {
+        "text": "2025 yılında gerçekleşen önemli bir gelişme, yapay zekâ destekli otomasyon sistemlerinin üretim sektöründe devrim yaratması olmuştur. Robotlar ve makineler, insan iş gücünün yerine geçerek yüksek verimlilikle çalışmaya başlamış, fabrikalarda üretim hızlanmıştır. Bu otomasyonun olumlu etkileri büyük olsa da, birçok kişi işsiz kalmış ve sosyal eşitsizlik artmıştır. Ancak, bu gelişme yeni mesleklerin ortaya çıkmasına da olanak tanımış ve teknolojik becerilere dayalı yeni iş alanları doğmuştur. Sonuç olarak, iş gücü pazarı hızla değişmiş ve eğitim sistemleri, bu yeni ihtiyaçlara adapte olmaya başlamıştır.",
+        "label": "yalan"
+      },
+      {
+        "text": "2025 yılında, internet üzerinden satış yapan şirketlerin sayısı hızla artmış ve çevrimiçi ticaret dünya çapında çok büyük bir pazar haline gelmiştir. Özellikle e-ticaret, pandemi sonrası dönemde ciddi bir büyüme göstermiştir. İnsanlar, evlerinden çıkmadan alışveriş yapabilmekte ve ürünler hızlı bir şekilde kapılarına teslim edilmektedir. Ancak, çevrimiçi ticaretin artması, geleneksel mağazaların kapanmasına ve perakende sektöründe büyük bir iş kaybına yol açmıştır. Bununla birlikte, e-ticaretin getirdiği kolaylıklar, sektöre yeni iş modelleri ve inovasyonlar getirmiştir.",
+        "label": "yalan"
+      },
+      {
+        "text": "Yapay zeka, son yıllarda birçok alanda devrim yaratmıştır. Ancak, bu teknolojinin gelişmesiyle birlikte bazı endişeler de gündeme gelmiştir. Özellikle, otomasyonun iş gücü piyasasına etkisi, insanların yerini alacak robotlar ve yazılımlar ile insanların çalışma alanlarının daralması konuları büyük bir tartışma yaratmaktadır. Bunun yanı sıra, yapay zekanın etik sorunları da öne çıkmaktadır. Zeka seviyesindeki algoritmaların, insanların yerini alarak toplumsal ve ekonomik dengesizliklere yol açması ihtimali pek çok uzman tarafından dile getirilmektedir. Ayrıca, yapay zekanın insan hakları, mahremiyet ve güvenlik üzerindeki etkileri de önemli bir endişe kaynağı olmuştur. Bu nedenle, yapay zeka alanındaki gelişmelerin düzenlenmesi ve denetlenmesi gerektiği vurgulanmaktadır.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Blockchain teknolojisi, özellikle kripto para birimleri ile özdeşleşmiş olsa da, aslında çok daha geniş bir kullanım alanına sahiptir. Merkeziyetsiz yapıdaki bu teknoloji, veri güvenliği sağlamak, işlem sürelerini kısaltmak ve aracıları ortadan kaldırmak gibi avantajlar sunmaktadır. Günümüzde birçok sektörde blockchain tabanlı uygulamalar geliştirilmekte ve bazı devletler, bu teknolojiyi kullanarak daha şeffaf ve güvenilir bir yönetim anlayışı benimsemektedir. Ancak, blockchain’in de bazı zorlukları bulunmaktadır. Özellikle, işlem hızının düşük olması, enerji tüketiminin yüksekliği ve düzenleyici boşluklar, bu teknolojinin yaygınlaşmasının önündeki engeller arasında yer almaktadır.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Eğitim teknolojilerinin gelişmesiyle birlikte, dijital öğrenme yöntemleri dünya çapında hızla yayılmaktadır. Özellikle pandemi dönemi, çevrimiçi eğitim platformlarının popülerliğini artırmış ve milyonlarca öğrenci uzaktan eğitim almaya başlamıştır. Bu süreç, eğitim sistemlerinin dijitalleşmesine büyük bir ivme kazandırırken, aynı zamanda eğitmenler ve öğrenciler için yeni zorluklar da ortaya çıkarmıştır. Uzaktan eğitimde yaşanan en büyük sorunlardan biri, öğrenci ve öğretmen arasındaki etkileşimin azalmış olmasıdır. Ayrıca, dijital altyapı eksiklikleri, öğrencilerin erişim sorunları ve çevrimiçi derslerin verimliliği gibi konular da tartışılmaktadır. Buna rağmen, dijital öğrenme, eğitim sisteminde köklü değişikliklere yol açma potansiyeline sahip olduğu için gelecekte daha fazla önem kazanacaktır.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Dijital pazarlama, son yıllarda geleneksel pazarlama yöntemlerinin yerini hızla almaktadır. Sosyal medya platformlarının, arama motorlarının ve e-posta pazarlamasının etkisiyle, markalar hedef kitlelerine çok daha hızlı ve etkili bir şekilde ulaşabilmektedir. Ancak dijital pazarlamanın da zorlukları bulunmaktadır. İnternet kullanıcılarının reklamlara olan duyarsızlığı, reklam engelleyicilerin yaygınlaşması ve sosyal medya platformlarındaki algoritmaların değişmesi gibi faktörler, dijital pazarlamacıları yeni stratejiler geliştirmeye zorlamaktadır. Aynı zamanda, dijital pazarlama faaliyetlerinin etik sınırları da tartışılmaktadır. Kişisel verilerin toplanması ve kullanılması, kullanıcıların gizliliği ile ilgili ciddi endişelere yol açmaktadır. Bu nedenle, dijital pazarlama stratejilerinin etik ve yasal çerçeveler içinde şekillendirilmesi gerektiği önemlidir.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Günümüz dünyasında çevre kirliliği, küresel ısınma ve doğal kaynakların tükenmesi gibi çevresel sorunlar, insanlık için büyük bir tehdit oluşturmaktadır. Bu sorunların çözülmesi, sadece hükümetlerin değil, aynı zamanda bireylerin, işletmelerin ve sivil toplum kuruluşlarının da sorumluluğundadır. Yenilenebilir enerji kaynaklarının kullanımı, atık yönetimi ve su tasarrufu gibi uygulamalar, çevresel etkilerin azaltılmasında önemli bir rol oynamaktadır. Bununla birlikte, çevre dostu teknolojilerin geliştirilmesi, yeşil enerji yatırımları ve sürdürülebilir üretim yöntemleri gibi çözümler, çevre kirliliğini azaltmaya yönelik önemli adımlar atılmasını sağlamaktadır. Ancak, bu süreçler küresel çapta daha geniş bir iş birliği gerektirmektedir.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Dijital dönüşüm, iş dünyasında büyük bir değişim sürecini başlatmıştır. Şirketler, dijital teknolojiler kullanarak iş süreçlerini daha verimli hale getirmeyi ve müşteri deneyimini iyileştirmeyi hedeflemektedir. Bu dönüşüm, sadece teknoloji kullanımı ile sınırlı kalmaz, aynı zamanda şirket kültüründe de değişimlere yol açar. Dijitalleşme sayesinde, veri analitiği, yapay zeka ve bulut bilişim gibi yenilikçi teknolojiler, şirketlerin stratejik kararlar almasını ve rekabet avantajı elde etmesini sağlamaktadır. Ancak, dijital dönüşümün başarılı bir şekilde uygulanabilmesi için çalışanların dijital okuryazarlığının arttırılması ve organizasyonel yapının buna göre uyarlanması gerekmektedir. Ayrıca, dijital dönüşümün getirdiği güvenlik risklerine karşı da önlemler alınmalıdır.",
+        "label": "gerçek"
+      },
+      {
+        "text": "Sağlık sektörü, teknoloji sayesinde büyük bir evrim geçirmektedir. Özellikle, telemedicine (uzaktan sağlık hizmeti) uygulamaları, hastaların evlerinden çıkmadan sağlık hizmeti alabilmelerini sağlamaktadır. Bu uygulamalar, hem hasta hem de doktorlar için zaman ve maliyet tasarrufu sağlamaktadır. Ayrıca, sağlık takip cihazları ve giyilebilir teknoloji ürünleri, bireylerin sağlık durumlarını sürekli olarak izlemelerine olanak tanımaktadır. Ancak, bu dijital sağlık hizmetlerinin de bazı zorlukları vardır. Özellikle, kullanıcı verilerinin gizliliği, güvenlik önlemleri ve bu teknolojilerin gerçek kullanımı, sağlık alanında karşılaşılan en büyük sorunlardan bazılarıdır. Yine de, dijital sağlık teknolojilerinin geleceği oldukça parlak görünmektedir.",
+        "label": "gerçek"
+      }    
+  ]
+  
